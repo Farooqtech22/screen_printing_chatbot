@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2025-10-02T19:51:25.692616",
+        "session_id": "welcome_session",
+        "user_message": "",
+        "bot_response": "Hey there! I'd love to help with any questions you have. I can also help you place a quote request if you want pricing.\n\nHow can I help you?",
+        "current_state": "MAIN_MENU",
+        "classified_intent": null,
+        "conversation_ended": false
+    }
+]
